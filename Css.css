@@ -1,0 +1,53 @@
+body {
+    background-image: url('Bakgrunnn.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.column {
+    float: left;
+    width: 207px;
+    height: 145px;
+    margin-left: 100px;
+}
+
+.skrift {
+    text-align: center;
+    color: white;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    background-color: rgba(0, 0, 0, 0.3)
+
+}
+
+.skrift2 {
+    text-align: center;
+    color:white;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    background-color: rgba(0, 0, 0, 0.3)
+}
+
+header {
+    display: inline-block;
+    background: radial-gradient(#c56e19, #772203, #441108);
+    color: rgb(255, 255, 255);
+    padding: 10px 200px;
+    margin-bottom: 20px;
+
+}
+
+audio {
+    margin-left: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.Julenissen {
+    float: left;
+    width: 207px;
+    height: 145px;
+    margin-left: 70px;
+}
